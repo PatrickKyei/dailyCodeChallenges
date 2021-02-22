@@ -14,4 +14,4 @@ I am using this also as code references when preparing for career interviews in 
 
 ## Language
 
-The **Language** used for the coding solutions are mostly going to written in **JavaScript**
+The **Language** used for the coding solutions are mostly going to be written in **JavaScript**
