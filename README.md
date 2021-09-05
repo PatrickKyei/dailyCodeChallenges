@@ -28,3 +28,5 @@ Coding challenges are going to be solved mostly with Javascript
 > Create animation with @keyframes
 
 ![Animation with keyframes](/assets/images/animation-with-keyframe.png)
+
+**For more [contents](link goes here) like this visit [Dev-Journey](link goes here)**
