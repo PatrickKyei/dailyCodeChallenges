@@ -29,4 +29,4 @@ Coding challenges are going to be solved mostly with Javascript
 
 ![Animation with keyframes](/assets/images/animation-with-keyframe.png)
 
-**For more [contents](link goes here) like this visit [Dev-Journey](link goes here)**
+**For more [contents](https://dev-path.github.io/jekyll-theme-memoirs/challenges-and-snippets/) like this visit [Dev-Journey](https://dev-path.github.io/jekyll-theme-memoirs/challenges-and-snippets/)**
