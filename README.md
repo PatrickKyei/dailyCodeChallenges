@@ -4,14 +4,14 @@
 
 ### Intention
 
-This is at least a regular coding practice to get better at my coding and problem solving skills in **Software Development**
+This is a scratch pad to pratice and solve coding problems
 
 I am using this also as code references when preparing for career interviews in **Software Development Positions**
 
 > As said by Rasheed Ogunlaru
 >
->> How you look at it is pretty how you see it
+> How you look at it is pretty how you see it
 
 ## Language
 
-The **Language** used for the coding solutions are mostly going to be written in **JavaScript**
+Coding challenges are going to be solved mostly with Javascript
